@@ -1,0 +1,8 @@
+
+1.create node connection
+2.Create mysql db 
+3.create table and insert data (with and without query);
+4.connect database with node
+5.set static path in node.
+6.solev some bugs in boyler project.
+7.try to reslove bugs which is not resoleved yesterday.
